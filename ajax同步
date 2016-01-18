@@ -1,0 +1,4 @@
+$.ajax({
+    url:"/mongo.show dbs", async : false, type : "POST",
+    success :func
+})
